@@ -1,1 +1,2 @@
-From shanbumin/mongo:3.4-jessie
+From shanbumin/nginx:1.14-alpine3.8
+
