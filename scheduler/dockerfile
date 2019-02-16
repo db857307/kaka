@@ -1,2 +1,2 @@
-From shanbumin/nginx:1.14-alpine3.8
+From shanbumin/redis:4.0-alpine3.8
 
