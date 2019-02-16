@@ -1,1 +1,1 @@
-From k8s.gcr.io/kube-scheduler-amd64:v1.9.3
+From shanbumin/nginx:1.14-alpine3.8
